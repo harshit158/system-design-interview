@@ -9,5 +9,5 @@ Chapter 6: Ad Click Event Aggregation
 
 - [Understand star schema and the importance for Power BI](https://learn.microsoft.com/en-us/power-bi/guidance/star-schema)
 
-- [Lambda Architecture](https://www.databricks.com/glossary/lambda-architecture)
-- [Kappa Architecture](https://hazelcast.com/foundations/software-architecture/kappa-architecture/)
+- [[14] Lambda Architecture](https://www.databricks.com/glossary/lambda-architecture)
+- [[15] Kappa Architecture](https://hazelcast.com/foundations/software-architecture/kappa-architecture/)
